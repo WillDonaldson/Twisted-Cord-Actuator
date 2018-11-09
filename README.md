@@ -6,3 +6,4 @@ To open .step file:
 -Download ZIP file of this repository and expand it
 -From within Fusion 360 select "File -> New Design from File" and open .step file
 -Either modify the .step file or convert it to an .stl fie for 3D printing
+-
